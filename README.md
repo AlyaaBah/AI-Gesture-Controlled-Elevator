@@ -29,6 +29,8 @@ Instead of pressing physical buttons, the system tracks the user's hand landmark
 ![Elevator Demo](elevator_demo.gif)
 *(Note: Please verify the COM port in the script before running)*
 
+![Elevator system_overview ](system_overview.jpeg.gif)
+
 ---
 
 ##  How It Works (Mechanism)
