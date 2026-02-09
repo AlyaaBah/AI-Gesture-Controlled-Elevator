@@ -76,8 +76,6 @@ Instead of pressing physical buttons, the system tracks the user's hand landmark
 ##  Development Credits
 <p align="left">
   <strong>Developed by:</strong> Eng. Alyaa<br>
-  <strong>Focus:</strong> Robotics & Computer Vision<br>
-  <strong>Theme:</strong> Smart Cities & Hygiene Solutions
 </p>
 
 ---
